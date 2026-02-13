@@ -23,7 +23,7 @@ List any required software (e.g., Node.js v18+, npm or yarn).
 Installation
 Clone the repository
 
-Bash
+```Bash
 git clone https://github.com/your-username/your-repo-name.git
 Navigate to the directory
 
