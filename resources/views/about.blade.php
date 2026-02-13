@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <title>Portfolio | Home</title>
+    <title>Portfolio | About</title>
 
     <style>
         html, body {
@@ -29,15 +29,29 @@
             justify-content: center;
             padding: 2rem 0; 
         }
+
+        .text-color {
+            color: #6a1b9a;
+        }
+
+
+        .nav-link-custom {
+            text-decoration: none;
+            transition: opacity 0.3s;
+        }
+
+        .nav-link-custom:hover {
+            opacity: 0.7;
+        }
     </style>
 </head>
 
 <body class="bg-light">
     <header>
         <nav class="p-4 unicolor text-center">
-            <a class="text-white mx-3" href="{{ route('home') }}">Home</a>
-            <a class="text-white mx-3" href="{{ route('projects') }}">Projects</a>
-            <a class="text-white mx-3" href="{{ route('about') }}">About</a>
+            <a class="text-white mx-3 text-decoration-none nav-link-custom" href="{{ route('home') }}">Home</a>
+            <a class="text-white mx-3 text-decoration-none nav-link-custom" href="{{ route('projects') }}">Projects</a>
+            <a class="text-white mx-3 text-decoration-none nav-link-custom" href="{{ route('about') }}">About</a>
         </nav>
     </header>
 
@@ -45,11 +59,11 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 text-start px-4">
-                    <h2 class="fw-bold">About Me</h2>
+                    <h2 class="fw-bold text-color">About Me</h2>
                     <p class="lead">I'm a student learning about computer technology and web development aiming to be able to help my community with computer technical expertise
                         and coding.</p>
                     
-                    <h3 class="mt-4">My Goals</h3>
+                    <h3 class="mt-4 text-color">My Goals</h3>
                     <ul class="text-muted">
                         <li>Build a system that my school and community can use.</li>
                         <li>Learn and be proficient in at least one of the programming languages I learned.</li>
@@ -57,7 +71,7 @@
                         <li>Make my own game.</li>
                     </ul>
 
-                    <h3 class="mt-4">My Likes</h3>
+                    <h3 class="mt-4 text-color">My Likes</h3>
                     <ul class="text-muted">
                         <li>Cats</li>
                         <li>Stories</li>

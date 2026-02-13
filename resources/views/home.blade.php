@@ -35,6 +35,10 @@
         .nav-link-custom:hover {
             opacity: 0.7;
         }
+
+        .text-color {
+            color: #6a1b9a;
+        }
     </style>
 </head>
 
@@ -49,7 +53,7 @@
     </header>
 
     <main class="container">
-        <h1 class="display-1">Hi, I'm Karl Ashton Mahusay</h1>
+        <h1 class="display-1 text-color">Hi, I'm Karl Ashton Mahusay</h1>
         <p class="lead mb-0">An Associate of Computer Technology Student</p>
         <p class="fs-5 text-muted">at the esteemed La Verdad Christian College.</p>
     </main>
