@@ -1,10 +1,10 @@
-## Project Title
+# 📁 Personal Portfolio (Laravel)
 A brief, one-sentence tagline about what this project solves or showcases.
 
-## 📖 Description
+# 📖 Description
 Provide a concise overview of the project. Mention the "why" behind the build, the core technologies used (e.g., React, Tailwind CSS, Node.js), and the primary goals you achieved.
 
-## 🖼️ Gallery
+# 🖼️ Gallery
 Main Portfolio Page
 Description of the landing page, highlighting key UI elements or animations.
 
@@ -14,30 +14,27 @@ Description of what this page showcases and any unique functionality.
 Sub-page 2: [Name, e.g., About/Contact]
 Description of the layout and features.
 
-## 🚀 Getting Started
+# 🚀 Getting Started
+
 Follow these steps to get a local copy of the project up and running on your machine.
 
-Prerequisites
-List any required software (e.g., Node.js v18+, npm or yarn).
-
-Installation
+## Installation
 1. **Clone the repository**
-```
-
-git clone https://github.com/your-username/your-repo-name.git
-```
+    ```
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
 2. **Navigate to the directory**
-```
-cd your-repo-name
-```
+    ```
+    cd your-repo-name
+    ```
 
 3. **Install dependencies**
-```
-npm install
-```
+    ```
+    npm install
+    ```
 
 4. **Run the development server**
-```
-npm run dev
-```
+    ```
+    npm run dev
+    ```
 
