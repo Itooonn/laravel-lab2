@@ -1,10 +1,10 @@
-Project Title
+## Project Title
 A brief, one-sentence tagline about what this project solves or showcases.
 
-📖 Description
+## 📖 Description
 Provide a concise overview of the project. Mention the "why" behind the build, the core technologies used (e.g., React, Tailwind CSS, Node.js), and the primary goals you achieved.
 
-🖼️ Gallery
+##🖼️ Gallery
 Main Portfolio Page
 Description of the landing page, highlighting key UI elements or animations.
 
@@ -14,7 +14,7 @@ Description of what this page showcases and any unique functionality.
 Sub-page 2: [Name, e.g., About/Contact]
 Description of the layout and features.
 
-🚀 Getting Started
+## 🚀 Getting Started
 Follow these steps to get a local copy of the project up and running on your machine.
 
 Prerequisites
