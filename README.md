@@ -5,14 +5,23 @@ A simple static website containing information about myself.
 This is an activity in our Web Development 2 navigating on how we can apply our learned knowledge on laravel controllers, routes, blade templates and basic web development (HTML, CSS and Bootstrap).
 
 # 🖼️ Gallery
-Main Portfolio Page
-Description of the landing page, highlighting key UI elements or animations.
+**Main Portfolio Page**
 
-Sub-page 1: [Name, e.g., Projects]
-Description of what this page showcases and any unique functionality.
+This shows a simple landing page, it took inspiration from the windows 10 installation.
 
-Sub-page 2: [Name, e.g., About/Contact]
-Description of the layout and features.
+![Main page](public/images/mainpage.png)
+
+**Sub-page 1: Projects page**
+
+This page shows the list of my group programming projects.
+
+![Main page](public/images/projects.png)
+
+**Sub-page 2: About me page**
+
+This page shows the information about myself, it includes my goals and my likes.
+
+![Main page](public/images/about.png)
 
 # 🚀 Getting Started
 
