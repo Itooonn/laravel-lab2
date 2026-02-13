@@ -1,8 +1,8 @@
 # 📁 Personal Portfolio (Laravel)
-A brief, one-sentence tagline about what this project solves or showcases.
+A simple static website containing information about myself.
 
 # 📖 Description
-Provide a concise overview of the project. Mention the "why" behind the build, the core technologies used (e.g., React, Tailwind CSS, Node.js), and the primary goals you achieved.
+This is an activity in our Web Development 2 navigating on how we can apply our learned knowledge on laravel controllers, routes, blade templates and basic web development (HTML, CSS and Bootstrap).
 
 # 🖼️ Gallery
 Main Portfolio Page
