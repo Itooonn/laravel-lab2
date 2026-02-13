@@ -44,6 +44,10 @@ Follow these steps to get a local copy of the project up and running on your mac
 
 4. **Run the development server**
     ```
-    npm run dev
+    php artisan serve
     ```
+
+IMPORTANT NOTE
+
+Make sure that you have git installed first.
 
