@@ -4,7 +4,7 @@ A brief, one-sentence tagline about what this project solves or showcases.
 ## 📖 Description
 Provide a concise overview of the project. Mention the "why" behind the build, the core technologies used (e.g., React, Tailwind CSS, Node.js), and the primary goals you achieved.
 
-##🖼️ Gallery
+## 🖼️ Gallery
 Main Portfolio Page
 Description of the landing page, highlighting key UI elements or animations.
 
