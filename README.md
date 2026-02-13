@@ -21,20 +21,23 @@ Prerequisites
 List any required software (e.g., Node.js v18+, npm or yarn).
 
 Installation
-Clone the repository
+1. **Clone the repository**
+```
 
-```Bash
 git clone https://github.com/your-username/your-repo-name.git
-Navigate to the directory
-
-Bash
+```
+2. **Navigate to the directory**
+```
 cd your-repo-name
-Install dependencies
+```
 
-Bash
+3. **Install dependencies**
+```
 npm install
-Run the development server
+```
 
-Bash
+4. **Run the development server**
+```
 npm run dev
-The project should now be running at http://localhost:3000 (or your specific port).
+```
+
